@@ -1,0 +1,14 @@
+{
+  "juan": {
+    "email": "juan@hotmail.com",
+    "contraseña": "qwerty"
+  },
+  "mauro": {
+    "email": "mauro@hotmail.com",
+    "contraseña": "123"
+  },
+  "axel": {
+    "email": "axel@hotmail.com",
+    "contraseña": "123"
+  }
+}
